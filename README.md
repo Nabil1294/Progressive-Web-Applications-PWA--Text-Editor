@@ -55,7 +55,7 @@ After starting the application, navigate to http://localhost:3001 in your web br
 
 ## Deployed Github link
 
-
+https://nabil1294.github.io/Progressive-Web-Applications-PWA--Text-Editor/
 
 ## Deployed Heroku link
 
